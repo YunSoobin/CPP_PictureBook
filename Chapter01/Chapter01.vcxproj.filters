@@ -21,13 +21,13 @@
     <ClCompile Include="exercise01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="example02.cpp">
+    <ClCompile Include="exercise02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="example03.cpp">
+    <ClCompile Include="exercise03.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="example04.cpp">
+    <ClCompile Include="exercise04.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
